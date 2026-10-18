@@ -3,10 +3,10 @@ title: note3.MySQL1
 date: 2026-10-15 23:29:59
 tags:
 ---
-
+```sql
 -- 展示数据库
 SHOW DATABASES;
-
+```
 -- 创建数据库
 CREATE DATABASE name;
 
